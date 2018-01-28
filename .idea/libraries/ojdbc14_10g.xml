@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ojdbc14-10g">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Jar File/ojdbc14-10g.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
